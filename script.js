@@ -1,2 +1,2 @@
  document.getElementById("timeMsg").innerText = "Hello from Team Updated!";
- console.log("Team Project");  git add .
+ console.log("Team Project"); 
